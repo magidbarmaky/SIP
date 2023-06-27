@@ -1,4 +1,4 @@
-#sip => Send Image with Permission
+#sip => Send Image with Permission 
 from subprocess import check_output
 import smtplib
 from email.message import EmailMessage
