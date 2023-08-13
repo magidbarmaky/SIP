@@ -70,6 +70,6 @@ import time
             it has a large head with long sharp teeth"
        width="400"
        title = " sipنمونه ای از سورس کد بد افزار  " 
-       height="600">
-  <p>.نمایی از سورس کد جاسوس افزار که با زبان پایتون نوشته شده است</p>
+       height="500">
+  <p>نسخه اول یا آیکونی متفاوت</p>
 </div>
