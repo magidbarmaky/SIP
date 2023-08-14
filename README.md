@@ -25,7 +25,7 @@ The previous name of the program was Syscoomi
 The previous name was inspired by the file name cocomi (which was a file for image processing). The first sys stands for system software.</p>
 
 <h2>●How to spy</h2>
-<p>It collects all the images with the extension jpg in the C: drive and in the Desktop, Download and Pictures directories and sends them to the creator's email (magidbarmaky@gmail.com) using the SMTP protocol: smiling_imp:
+<p>It collects all the images with the extension jpg in the C: drive and in the Desktop, Download and Pictures directories and sends them to the creator's email  using the SMTP protocol: smiling_imp:
 So far, no antivirus has been able to detect this spyware.</p>
 <p>This spyware is in the form of a filter breaker. In this way, after downloading from blogs or Telegram channels and clicking on it, it buys time from the user to access private images. This buying time can delay the user for a few minutes by displaying the message "connecting" or similar, so that it can extract private images. After using a complex algorithm to all images with the extension jpg. had access
   It saves the path of the images in the desktop, pictures and downloads directory in a text file called SettingSIPv4.txt in a path far from the user's reach.
