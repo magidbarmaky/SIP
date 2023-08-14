@@ -38,9 +38,9 @@ Finally, delete the SettingSIPv4.txt file.</p>
   <img src="https://s8.uupload.ir/files/screenshot_(42)_ytlr.png"
        alt="The head and torso of a dinosaur skeleton;
             it has a large head with long sharp teeth"
-       width="200"
+       width="600"
        title = " sipنمونه ای از سورس کد بد افزار  " 
-       height="100">
+       height="300">
   <p>A view of the spyware source code written in Python</p>
 </div>
 
