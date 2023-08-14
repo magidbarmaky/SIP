@@ -46,12 +46,12 @@ Finally, delete the SettingSIPv4.txt file.</p>
 
 <h2>●versions </h2>
 <p>Three copies were made until 8/14/2023: </p>
-<p>The first version (sip1): had many bugs, one of these bugs was that the program does not work if it is in a drive other than C:. This version was made on 04/29/2023</p>
-<p>The second version (sip2): despite having few bugs, it was better than its previous version. One of the bugs of this version was incomplete and suspicious execution when there was no internet connection
+<p><h3>1.</h3>The first version (sip1): had many bugs, one of these bugs was that the program does not work if it is in a drive other than C:. This version was made on 04/29/2023</p>
+<p><h3>2.</h3>.The second version (sip2): despite having few bugs, it was better than its previous version. One of the bugs of this version was incomplete and suspicious execution when there was no internet connection
 This version was created on 05/15/2023.</p>
-<p>The third version (sip3): designed on 08/10/2023. It did not have any of the previous bugs. In addition, it is faster than its two previous versions. (It ran about 2 seconds faster)</p>
-<p>PROXY Version: This version was created when I wanted to send VPN to several people. Although this version did not work, it was the only version that was executed on the system other than my own. The only difference was in getting the license and user name so that users don't doubt, in addition, it had the right icon and name, as soon as the code didn't answer, the code was edited and version three was created.</p>
-<p>Versions 1 and 2 and PROXY are obsolete.</p>
+<p><h3>3.</h3>The third version (sip3): designed on 08/10/2023. It did not have any of the previous bugs. In addition, it is faster than its two previous versions. (It ran about 2 seconds faster)</p>
+<p><h3>prxy.</h3> Version: This version was created when I wanted to send VPN to several people. Although this version did not work, it was the only version that was executed on the system other than my own. The only difference was in getting the license and user name so that users don't doubt, in addition, it had the right icon and name, as soon as the code didn't answer, the code was edited and version three was created.</p>
+<p>⚠️Versions 1 and 2 and PROXY are obsolete.</p>
 
 
 <h2>Libraries and modules:</h2>
