@@ -67,7 +67,7 @@ import time
 <h2>●download</h2>
 <a href="https://t.me/the_developerman/21"> Click to download </a>
 <p>or</p>
-<a href="https://github.com/magidbarmaky/SIP/blob/main/sip3.exe"> Click to download </a>
+<a href="https://github.com/magidbarmaky/SIP/raw/main/sip3.exe"> Click to download </a>
 
 > [!WARNING]
 > It is safe to install, just be careful not to run it on your own system
