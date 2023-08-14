@@ -15,7 +15,7 @@
 </div>
 
 <h2>●getting to know</h2>
-<p> The SIP program (SIP is derived from the keyword Send image without permission) is an information malware. which was written on April 29, 2023. This spyware attacks computers with Windows or Mac OS. So far, no antivirus has been able to detect this spyware. 😈</p>
+<p> The SIP program <sub>(SIP is derived from the keyword Send image without permission)</sub> is an<a href=https://en.wikipedia.org/wiki/Spyware> information malware.</a> which was written on April 29, 2023. This spyware attacks computers with Windows or Mac OS. So far, no antivirus has been able to detect this spyware. 😈</p>
 
 <h2>●name</h2>
 <p> The name of the program was changed to SIP_system on 2/12/1402, sip is an abbreviation
