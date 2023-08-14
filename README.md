@@ -64,12 +64,3 @@ import os
 import sys
 import time
 ```
-<div class="figure">
-  <img src="https://s8.uupload.ir/files/sip-v1_jk5h.jpg"
-       alt="The head and torso of a dinosaur skeleton;
-            it has a large head with long sharp teeth"
-       width="400"
-       title = " sipنمونه ای از سورس کد بد افزار  " 
-       height="500">
-  <p>نسخه اول یا آیکونی متفاوت</p>
-</div>
