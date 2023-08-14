@@ -40,7 +40,7 @@ Finally, delete the SettingSIPv4.txt file.</p>
             it has a large head with long sharp teeth"
        width="800"
        title = " sipنمونه ای از سورس کد بد افزار  " 
-       height="300">
+       height="400">
   <p>A view of the spyware source code written in Python</p>
 </div>
 
