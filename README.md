@@ -14,25 +14,25 @@
   <p>SIP spyware version 4 icon</p>
 </div>
 
-<h2>●آشنایی</h2>
-<p> برنامه SIP (SIP از سرواژه Send image without permission گرفته شده ) یک بدافزار اطلاعاتی‌ست . که در ۲۹ آوریل  2023 نوشته شده است . این جاسوس افزار یا Spyware کامپیوترهایی با سیستم عامل ویندوز یا mac os را مورد حمله قرار میدهد . 
-تا کنون هیچ آنتی‌ویروسی نتوانسته است این جاسوس افزار را شناسایی کند ‌. 😈</p>
-<h2>●نام</h2>
-<p> اسم برنامه  در تاریخ ۱۴۰۲/۲/۱۲ به SIP_system تغییر کرد sip  مخففِ
- Send image without permission
-هست . 
-اسم قبلی برنامه Syscoomi  بوده 
-نام قبلی از نام فایل cocomi (که یک فایل برای پردازش تصویر بود ) الهام گرفته شده بود sys اول به معنای نرم‌افزار سیستمی است.  </p>
+<h2>●getting to know</h2>
+<p> The SIP program (SIP is derived from the keyword Send image without permission) is an information malware. which was written on April 29, 2023. This spyware attacks computers with Windows or Mac OS. So far, no antivirus has been able to detect this spyware. 😈</p>
 
-<h2>●نحوه جاسوسی</h2>
-<p> تمام تصاویر  با پسوند jpg در درایو :C و در دایرکتور های Desktop , Download  و Pictures رو جمع آوری میکند و با پروتکل SMTP به ایمیل سازنده (magidbarmaky@gmail.com) ارسال  میکند :smiling_imp:
-تا کنون هیچ آنتی‌ویروسی نتوانسته است این جاسوس افزار را شناسایی کند ‌. :warning:</p>
-<p>این جاسوس‌افزار در قالب فیلترشکن در آمده است. به این گونه که بعد از دانلود از وبلاگ ها یا از کانال های تلگرامی و کلیک روی آن به بهانه‌ای از کاربر وقت میخرد  تا بتواند به تصاویر خصوصی دسترسی داشته باشد. این وقت خریدن میتواند با نمایش پیغامِ "در حال اتصال " یا امثال این کاربر را برای چند دقیقه معطل کند تا بتواند تصاویر خصوصی را استخراج کند. بعد از اینکه با کمک الگوریتم پیچیده به تمام تصاویر با پسوند jpg. دسترسی داشت . 
- مسیر تصاویری که در دایرکتوری  desktop , pictures  و downloads است را در فایل متنی به نام‌ SettingSIPv4.txt در مسیری دور از دسترس کاربر ذخیره میکند .
-سپس برای اینکه کاربر برنامه را نبندد پیغام "متصل شد" یا پیغام "در حال نصب پروکسی‌ها" را نشان میدهد . در این حالت ، کاربر برنامه را نبسته و فقط minimal میکند .
-در این قسمت .
-فایل SettingSIPv4.txt  را بازکرده وتک تک مسیر های تصاویر را برمیدارد و با پروتکل SMTP  و پورت 465 به ایمیل موردنظر ارسال میکند . 
-درآخر فایل SettingSIPv4.txt را حذف کرده .</p>
+<h2>●name</h2>
+<p> The name of the program was changed to SIP_system on 2/12/1402, sip is an abbreviation
+  Send image without permission
+LT is .
+The previous name of the program was Syscoomi
+The previous name was inspired by the file name cocomi (which was a file for image processing). The first sys stands for system software.</p>
+
+<h2>●How to spy</h2>
+<p>It collects all the images with the extension jpg in the C: drive and in the Desktop, Download and Pictures directories and sends them to the creator's email (magidbarmaky@gmail.com) using the SMTP protocol: smiling_imp:
+So far, no antivirus has been able to detect this spyware.</p>
+<p>This spyware is in the form of a filter breaker. In this way, after downloading from blogs or Telegram channels and clicking on it, it buys time from the user to access private images. This buying time can delay the user for a few minutes by displaying the message "connecting" or similar, so that it can extract private images. After using a complex algorithm to all images with the extension jpg. had access
+  It saves the path of the images in the desktop, pictures and downloads directory in a text file called SettingSIPv4.txt in a path far from the user's reach.
+Then, so that the user does not close the program, it shows the message "connected" or the message "installing proxies". In this case, the user does not close the program and only minimizes it.
+In this section .
+Open the SettingSIPv4.txt file and take each image path and send it to the desired email using SMTP protocol and port 465.
+Finally, delete the SettingSIPv4.txt file.</p>
 
 <div class="figure">
   <img src="https://s8.uupload.ir/files/screenshot_(42)_ytlr.png"
@@ -41,17 +41,17 @@
        width="800"
        title = " sipنمونه ای از سورس کد بد افزار  " 
        height="500">
-  <p>.نمایی از سورس کد جاسوس افزار که با زبان پایتون نوشته شده است</p>
+  <p>A view of the spyware source code written in Python</p>
 </div>
 
-<h2>●نسخه ها </h2>
-<p>تا ۱۴۰۲/۵/۲۰ سه نسخه ساخته شد: </p>
-<p>نسخه اول(sip1) : باگ های زیادی داشت یکی از این باگ ها این بود که اگر برنامه در درایوی به غیر از :C باشد برنامه کار نمیکند . این نسخه در ۱۴۰۲/۲/۹ ساخته شد</p>
-<p>نسخه دوم(sip2) : با وجود داشتن باگ کم اما بهتراز نسخه قبلی خود بود. یکی از باگ های این نسخه اجرای ناقص و مشکوک بود در زمانی که اتصال اینترنت نبود 
-این نسخه در ۱۴۰۲/۲/۲۵ ایجاد شد . </p>
-<p>نسخه سوم (sip3): که در 1402/5/19 طراحی شده . هیچ باگ از باگ های  قبلی رو نداشت . علاوه بر این سرعت بیشتری نسبت به دونسخه قبلی خود داره . (حدود ۲ ثانیه سریع تر اجرا می شد) </p>
-<p>نسخه PROXY : این نسخه زمانی که برای چند نفر می‌خواستم VPN بفرستم ایجاد شد . این نسخه با اینکه جواب نداد اما تنها نسخه ای بود که روی سیستم به غیر از سیستم خودم اجرا شده بود . تنها تفاوت در دریافت لایسنس و نام کاربری بود تا کاربران شک نکنند علاوه بر این ایکون و اسم مناسب داشت ، به محض جواب ندادن کد ویرایش شد و نسخه سه به وجود اومد .  </p>
-<p>* دو نسخه 1‌و 2 و PROXY منسوخ شدند . </p>
+<h2>●versions </h2>
+<p>Three copies were made until 8/14/2023: </p>
+<p>The first version (sip1): had many bugs, one of these bugs was that the program does not work if it is in a drive other than C:. This version was made on 2/9/1402</p>
+<p>The second version (sip2): despite having few bugs, it was better than its previous version. One of the bugs of this version was incomplete and suspicious execution when there was no internet connection
+This version was created on 25/2/1402.</p>
+<p>The third version (sip3): designed on 19/5/1402. It did not have any of the previous bugs. In addition, it is faster than its two previous versions. (It ran about 2 seconds faster)</p>
+<p>PROXY Version: This version was created when I wanted to send VPN to several people. Although this version did not work, it was the only version that was executed on the system other than my own. The only difference was in getting the license and user name so that users don't doubt, in addition, it had the right icon and name, as soon as the code didn't answer, the code was edited and version three was created.</p>
+<p>Versions 1 and 2 and PROXY are obsolete.</p>
 
 
 <h2>Libraries and modules:</h2>
